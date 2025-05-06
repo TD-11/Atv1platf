@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using static UnityEngine.SceneManagement.SceneManager;
 
 public class GameManager : MonoBehaviour
@@ -36,5 +37,6 @@ public class GameManager : MonoBehaviour
     public void LoadGame()
     {
         LoadScene(3);
+        LoadScene(4, LoadSceneMode.Additive);
     }
 }
