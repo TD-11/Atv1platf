@@ -1,12 +1,30 @@
 using System;
 using UnityEngine;
 
-public static class Door
+public class Door : MonoBehaviour
 {
-    public static Action ButtonPressed;
+    public string DoorID;
 
-    public static void DoorOpen()
+    private void OnEnable()
     {
-        ButtonPressed?.Invoke();
+        DoorController.OnButtonPressed += OnButtonPressed;
+    }
+
+    private void OnDisable()
+    {
+        DoorController.OnButtonPressed -= OnButtonPressed;
+    }
+
+    private void OnButtonPressed(string triggeredID)
+    {
+        if (triggeredID == DoorID)
+        {
+            OpenDoor();
+        }
+    }
+
+    private void OpenDoor()
+    {
+        gameObject.SetActive(false);
     }
 }
