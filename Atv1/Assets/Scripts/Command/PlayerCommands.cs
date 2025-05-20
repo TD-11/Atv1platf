@@ -55,15 +55,15 @@ public class GetCoin : ICommand
     public void Do()
     {
         player.moedas++;
-        coin.SetActive(true);
+        coin.SetActive(false);
     }
 
     public void Undo()
     {
         player.moedas--;
-        coin.SetActive(false);
+        coin.SetActive(true);
         // lembra de executar funcao Undo mais uma vez
-        
+        player.UndoLastCommand();
         
     }
 }
