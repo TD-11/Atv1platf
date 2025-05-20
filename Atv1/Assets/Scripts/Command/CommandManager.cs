@@ -14,4 +14,13 @@ public class CommandManager
         commands.Add(command);
         command.Do();
     }
+
+    public void UndoCommand()
+    {
+        if (commands.Count == 0) return;
+        ICommand command = commands[^1];
+        commands.RemoveAt(index: commands.Count - 1);
+        command.Undo();
+
+    }
 }

@@ -15,6 +15,11 @@ public class MoveUp : ICommand
     {
         playerTransform.position += Vector3.up;
     }
+
+    public void Undo()
+    {
+        playerTransform.position -= Vector3.up;
+    }
 }
 
 public class MoveRight : ICommand
@@ -29,6 +34,11 @@ public class MoveRight : ICommand
     public void Do()
     {
         playerTransform.position += Vector3.right;
+    }
+    
+    public void Undo()
+    {
+        playerTransform.position -= Vector3.right;
     }
 }
 
@@ -45,6 +55,15 @@ public class GetCoin : ICommand
     public void Do()
     {
         player.moedas++;
-        GameObject.Destroy(coin);
+        coin.SetActive(true);
+    }
+
+    public void Undo()
+    {
+        player.moedas--;
+        coin.SetActive(false);
+        // lembra de executar funcao Undo mais uma vez
+        
+        
     }
 }

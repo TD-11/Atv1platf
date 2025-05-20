@@ -16,6 +16,11 @@ public class SimplePlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Keyboard.current.uKey.wasPressedThisFrame)
+        {
+            UndoLastCommand();
+        }
+        
         if (Keyboard.current.upArrowKey.wasPressedThisFrame)
         {
             //transform.position += Vector3.up;
@@ -33,8 +38,15 @@ public class SimplePlayer : MonoBehaviour
     {
         if (other.CompareTag("Coin"))
         {
-            moedas++;
-            Destroy(other.gameObject);
+            // moedas++;
+            // Destroy(other.gameObject);
+            
+            myCommandManager.AddCommand(new GetCoin(player:this, other.gameObject));
         }
+    }
+
+    public void UndoLastCommand()
+    {
+        myCommandManager.UndoCommand();
     }
 }

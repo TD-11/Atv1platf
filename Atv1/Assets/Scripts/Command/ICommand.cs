@@ -2,5 +2,7 @@ using UnityEngine;
 
 public interface ICommand
 {
-    void Do();
+    void Do(); 
+    void Undo();
+        
 }
