@@ -4,7 +4,7 @@ using Random = UnityEngine.Random;
 
 public class CircleController : MonoBehaviour
 {
-   private SpriteRenderer _spriteRenderer;
+   public SpriteRenderer _spriteRenderer;
    
    [Header("Listening on...")]
    public VoidEventChannel circleColorEvent;
