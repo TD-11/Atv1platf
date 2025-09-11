@@ -1,0 +1,1743 @@
+fileFormatVersion: 2
+guid: 8d8b221a9ccd6c24f8c6ab53815c988b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -731899105233544741
+    second: DiscSmoke01_16x4_0
+  - first:
+      213: 7665329474569748258
+    second: DiscSmoke01_16x4_1
+  - first:
+      213: -2740217264846776331
+    second: DiscSmoke01_16x4_2
+  - first:
+      213: -6018485100112263396
+    second: DiscSmoke01_16x4_3
+  - first:
+      213: -8601364400036925184
+    second: DiscSmoke01_16x4_4
+  - first:
+      213: 1239008955412597103
+    second: DiscSmoke01_16x4_5
+  - first:
+      213: 606604909203618482
+    second: DiscSmoke01_16x4_6
+  - first:
+      213: -7808591833173821117
+    second: DiscSmoke01_16x4_7
+  - first:
+      213: -5759512865817045621
+    second: DiscSmoke01_16x4_8
+  - first:
+      213: -6603894519193959515
+    second: DiscSmoke01_16x4_9
+  - first:
+      213: -8416201601241020174
+    second: DiscSmoke01_16x4_10
+  - first:
+      213: 4668775116663966678
+    second: DiscSmoke01_16x4_11
+  - first:
+      213: -6629756682255663703
+    second: DiscSmoke01_16x4_12
+  - first:
+      213: -5559311423824122658
+    second: DiscSmoke01_16x4_13
+  - first:
+      213: -7377075241339687245
+    second: DiscSmoke01_16x4_14
+  - first:
+      213: -4893691217504297406
+    second: DiscSmoke01_16x4_15
+  - first:
+      213: 4650198816664734181
+    second: DiscSmoke01_16x4_16
+  - first:
+      213: 2665293509933090652
+    second: DiscSmoke01_16x4_17
+  - first:
+      213: 8757103715155525373
+    second: DiscSmoke01_16x4_18
+  - first:
+      213: -7049745531088052319
+    second: DiscSmoke01_16x4_19
+  - first:
+      213: -8247259722496198408
+    second: DiscSmoke01_16x4_20
+  - first:
+      213: 1531961117561717829
+    second: DiscSmoke01_16x4_21
+  - first:
+      213: 3816544113222834410
+    second: DiscSmoke01_16x4_22
+  - first:
+      213: -975496921382205368
+    second: DiscSmoke01_16x4_23
+  - first:
+      213: 8400047016275625677
+    second: DiscSmoke01_16x4_24
+  - first:
+      213: 4198685470765874291
+    second: DiscSmoke01_16x4_25
+  - first:
+      213: -4015884152323622855
+    second: DiscSmoke01_16x4_26
+  - first:
+      213: -7413355969339636671
+    second: DiscSmoke01_16x4_27
+  - first:
+      213: 322651969747382316
+    second: DiscSmoke01_16x4_28
+  - first:
+      213: 7876980063756676320
+    second: DiscSmoke01_16x4_29
+  - first:
+      213: 9143406415839084050
+    second: DiscSmoke01_16x4_30
+  - first:
+      213: -8483243523147789832
+    second: DiscSmoke01_16x4_31
+  - first:
+      213: 2412585885259434990
+    second: DiscSmoke01_16x4_32
+  - first:
+      213: -2110081755522966884
+    second: DiscSmoke01_16x4_33
+  - first:
+      213: -6583277202958873186
+    second: DiscSmoke01_16x4_34
+  - first:
+      213: 2049076454129854297
+    second: DiscSmoke01_16x4_35
+  - first:
+      213: 2658309591521496745
+    second: DiscSmoke01_16x4_36
+  - first:
+      213: 7452008675201215836
+    second: DiscSmoke01_16x4_37
+  - first:
+      213: -7885930653184106890
+    second: DiscSmoke01_16x4_38
+  - first:
+      213: -5721857914374289084
+    second: DiscSmoke01_16x4_39
+  - first:
+      213: -7759277919039127743
+    second: DiscSmoke01_16x4_40
+  - first:
+      213: -2011347881288536328
+    second: DiscSmoke01_16x4_41
+  - first:
+      213: -4051929056525001205
+    second: DiscSmoke01_16x4_42
+  - first:
+      213: 1101124600920553509
+    second: DiscSmoke01_16x4_43
+  - first:
+      213: 6497663790719365114
+    second: DiscSmoke01_16x4_44
+  - first:
+      213: 5667134296156518163
+    second: DiscSmoke01_16x4_45
+  - first:
+      213: -515953135258228907
+    second: DiscSmoke01_16x4_46
+  - first:
+      213: 1119619183496056200
+    second: DiscSmoke01_16x4_47
+  - first:
+      213: -306402097230027579
+    second: DiscSmoke01_16x4_48
+  - first:
+      213: 4932348479474900139
+    second: DiscSmoke01_16x4_49
+  - first:
+      213: 8761834381636760427
+    second: DiscSmoke01_16x4_50
+  - first:
+      213: 3868361904291700260
+    second: DiscSmoke01_16x4_51
+  - first:
+      213: -4816980899863572049
+    second: DiscSmoke01_16x4_52
+  - first:
+      213: 1253199438406179733
+    second: DiscSmoke01_16x4_53
+  - first:
+      213: -6604488608603706371
+    second: DiscSmoke01_16x4_54
+  - first:
+      213: -2116588251691095862
+    second: DiscSmoke01_16x4_55
+  - first:
+      213: -8538378592382369693
+    second: DiscSmoke01_16x4_56
+  - first:
+      213: -3428804666339874613
+    second: DiscSmoke01_16x4_57
+  - first:
+      213: 7825547554999382137
+    second: DiscSmoke01_16x4_58
+  - first:
+      213: 2441215639057833711
+    second: DiscSmoke01_16x4_59
+  - first:
+      213: -4919182863787138531
+    second: DiscSmoke01_16x4_60
+  - first:
+      213: 6985567867518994651
+    second: DiscSmoke01_16x4_61
+  - first:
+      213: 4326754400234490414
+    second: DiscSmoke01_16x4_62
+  - first:
+      213: 6509658285766676476
+    second: DiscSmoke01_16x4_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 767
+        width: 125
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9d02d34a5c7d5f0800000000000000
+      internalID: -731899105233544741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 767
+        width: 125
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fbf026b88b06a60800000000000000
+      internalID: 7665329474569748258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 767
+        width: 126
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f75a697aeac8f9d0800000000000000
+      internalID: -2740217264846776331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 767
+        width: 126
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17c3d150bb0a7ca0800000000000000
+      internalID: -6018485100112263396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 767
+        width: 127
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001bb1076a0d1a880800000000000000
+      internalID: -8601364400036925184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 767
+        width: 127
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6945e49418d13110800000000000000
+      internalID: 1239008955412597103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 767
+        width: 127
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf61473f71b6800800000000000000
+      internalID: 606604909203618482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 767
+        width: 126
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34978a3791f42a390800000000000000
+      internalID: -7808591833173821117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 767
+        width: 126
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85dea150991210b0800000000000000
+      internalID: -5759512865817045621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 767
+        width: 126
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a38b497ce04a54a0800000000000000
+      internalID: -6603894519193959515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 767
+        width: 125
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f884ff0c35a33b80800000000000000
+      internalID: -8416201601241020174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_11
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 767
+        width: 125
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db40fc7b32dac040800000000000000
+      internalID: 4668775116663966678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_12
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 767
+        width: 125
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adf0e66c6f5ef3a0800000000000000
+      internalID: -6629756682255663703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_13
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 767
+        width: 125
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc213be6bb59d2b0800000000000000
+      internalID: -5559311423824122658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_14
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 767
+        width: 124
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6e96472d5f9990800000000000000
+      internalID: -7377075241339687245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_15
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 767
+        width: 124
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e153cf3cd161cb0800000000000000
+      internalID: -4893691217504297406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 123
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e94e3a9f23d88040800000000000000
+      internalID: 4650198816664734181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 511
+        width: 123
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5747b173560df420800000000000000
+      internalID: 2665293509933090652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 511
+        width: 123
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe391b8e6b778970800000000000000
+      internalID: 8757103715155525373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 511
+        width: 123
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af59966ac54a2e90800000000000000
+      internalID: -7049745531088052319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 511
+        width: 122
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f83a3e6af8db8d80800000000000000
+      internalID: -8247259722496198408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 511
+        width: 122
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5440afd058e924510800000000000000
+      internalID: 1531961117561717829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_22
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 511
+        width: 121
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8514a66a617f430800000000000000
+      internalID: 3816544113222834410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_23
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 511
+        width: 121
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c689e7b65672f0800000000000000
+      internalID: -975496921382205368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_24
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 511
+        width: 122
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc640b58146f29470800000000000000
+      internalID: 8400047016275625677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_25
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 511
+        width: 122
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cf798a03ab44a30800000000000000
+      internalID: 4198685470765874291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_26
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 511
+        width: 123
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93831a9f3a6b448c0800000000000000
+      internalID: -4015884152323622855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_27
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 511
+        width: 123
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1444df506087e1990800000000000000
+      internalID: -7413355969339636671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_28
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 511
+        width: 123
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c207fdac14a4a7400800000000000000
+      internalID: 322651969747382316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_29
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 511
+        width: 123
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecec0b42a7a05d60800000000000000
+      internalID: 7876980063756676320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_30
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 511
+        width: 123
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ebd1df0b7e3ee70800000000000000
+      internalID: 9143406415839084050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_31
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 511
+        width: 123
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f984ab36f6754a80800000000000000
+      internalID: -8483243523147789832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 123
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb8209841a3b7120800000000000000
+      internalID: 2412585885259434990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 255
+        width: 124
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a5503b2db77b2e0800000000000000
+      internalID: -2110081755522966884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 255
+        width: 124
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d85bb734083a4a0800000000000000
+      internalID: -6583277202958873186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 255
+        width: 124
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e606bd28cf6c10800000000000000
+      internalID: 2049076454129854297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_36
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 255
+        width: 124
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae07a93d7634e420800000000000000
+      internalID: 2658309591521496745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 255
+        width: 124
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d6f7c586ada6760800000000000000
+      internalID: 7452008675201215836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_38
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 255
+        width: 123
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed8953adb8f8290800000000000000
+      internalID: -7885930653184106890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_39
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 255
+        width: 123
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4498676ea80e790b0800000000000000
+      internalID: -5721857914374289084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_40
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 255
+        width: 123
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff322d7d1815490800000000000000
+      internalID: -7759277919039127743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_41
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 255
+        width: 123
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feef0032c14614e0800000000000000
+      internalID: -2011347881288536328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_42
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 255
+        width: 123
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5ebabdf7a4c7c0800000000000000
+      internalID: -4051929056525001205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_43
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 255
+        width: 123
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52830539dfaf74f00800000000000000
+      internalID: 1101124600920553509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_44
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 255
+        width: 123
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affeeb3aac65c2a50800000000000000
+      internalID: 6497663790719365114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_45
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 255
+        width: 124
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b7d8dd94b5ae40800000000000000
+      internalID: 5667134296156518163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_46
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 255
+        width: 123
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5572f2c6b57f6d8f0800000000000000
+      internalID: -515953135258228907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_47
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 255
+        width: 123
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dcef327bfa98f00800000000000000
+      internalID: 1119619183496056200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 122
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46b2c7ae07fbbf0800000000000000
+      internalID: -306402097230027579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 122
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac1a833fc8337440800000000000000
+      internalID: 4932348479474900139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 122
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63734aa2f9489970800000000000000
+      internalID: 8761834381636760427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 123
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ed5ff08ae2fa530800000000000000
+      internalID: 3868361904291700260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_52
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 124
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa15acd9465a62db0800000000000000
+      internalID: -4816980899863572049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_53
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 122
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b5beedf32446110800000000000000
+      internalID: 1253199438406179733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_54
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 119
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbef014a942854a0800000000000000
+      internalID: -6604488608603706371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 119
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8ef22033e50a2e0800000000000000
+      internalID: -2116588251691095862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_56
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 120
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360cf3398e5918980800000000000000
+      internalID: -8538378592382369693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_57
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 0
+        width: 121
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc82c9292507a60d0800000000000000
+      internalID: -3428804666339874613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_58
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 123
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9703aac2a0ee99c60800000000000000
+      internalID: 7825547554999382137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_59
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 0
+        width: 123
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee9b2a80b0f0e120800000000000000
+      internalID: 2441215639057833711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_60
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 0
+        width: 123
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1267c29f3d8bbbb0800000000000000
+      internalID: -4919182863787138531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_61
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 0
+        width: 123
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd84ad1e6f8b1f060800000000000000
+      internalID: 6985567867518994651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_62
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 0
+        width: 122
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac550f338bb0c30800000000000000
+      internalID: 4326754400234490414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscSmoke01_16x4_63
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 0
+        width: 123
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff0d44a8b3f65a50800000000000000
+      internalID: 6509658285766676476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
