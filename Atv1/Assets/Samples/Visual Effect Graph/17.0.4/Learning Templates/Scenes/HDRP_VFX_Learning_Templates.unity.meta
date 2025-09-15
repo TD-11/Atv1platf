@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Atv1/Assets/Samples/Visual Effect Graph/17.0.4/Learning Templates/Scenes/HDRP_VFX_Learning_Templates.unity.meta
 guid: dfe33c936823ce440b08d31a5f97964b
+========
+guid: 8c9cfa26abfee488c85f1582747f6a02
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/Assets/Scenes/SampleScene.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
