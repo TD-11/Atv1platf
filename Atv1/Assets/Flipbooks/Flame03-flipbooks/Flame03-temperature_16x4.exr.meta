@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flame03-temperature_16x4_0: 7804618466201590453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

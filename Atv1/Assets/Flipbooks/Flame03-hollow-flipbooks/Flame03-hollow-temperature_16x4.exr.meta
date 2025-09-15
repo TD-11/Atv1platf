@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flame03-hollow-temperature_16x4_0: -7140123927059512237
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

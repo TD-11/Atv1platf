@@ -760,7 +760,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Explosion01-light-nofire_5x5_0: -5076706455891738336
+      Explosion01-light-nofire_5x5_1: 8724434793172001800
+      Explosion01-light-nofire_5x5_10: -3576708235247109963
+      Explosion01-light-nofire_5x5_11: 1986631046836686601
+      Explosion01-light-nofire_5x5_12: 4374737610630660841
+      Explosion01-light-nofire_5x5_13: 5191629345807541038
+      Explosion01-light-nofire_5x5_14: -8568454786091535641
+      Explosion01-light-nofire_5x5_15: -5983288456782613077
+      Explosion01-light-nofire_5x5_16: -6198812340993562357
+      Explosion01-light-nofire_5x5_17: 8366490403147174921
+      Explosion01-light-nofire_5x5_18: 8975696641551172373
+      Explosion01-light-nofire_5x5_19: 5476121701906056778
+      Explosion01-light-nofire_5x5_2: 1551516455038661918
+      Explosion01-light-nofire_5x5_20: 2170284715910006641
+      Explosion01-light-nofire_5x5_21: 317901666045726640
+      Explosion01-light-nofire_5x5_22: 2964845564168319724
+      Explosion01-light-nofire_5x5_23: 5546795203597740259
+      Explosion01-light-nofire_5x5_24: -7114522220797678081
+      Explosion01-light-nofire_5x5_3: -2621539110622701278
+      Explosion01-light-nofire_5x5_4: -1023901566328620890
+      Explosion01-light-nofire_5x5_5: 823229799586743754
+      Explosion01-light-nofire_5x5_6: 2524630256894129901
+      Explosion01-light-nofire_5x5_7: -6321324935697556178
+      Explosion01-light-nofire_5x5_8: 1750635923643068149
+      Explosion01-light-nofire_5x5_9: 7987904945947192979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FireBall04-temperature_8x8_0: -6725071556164739558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

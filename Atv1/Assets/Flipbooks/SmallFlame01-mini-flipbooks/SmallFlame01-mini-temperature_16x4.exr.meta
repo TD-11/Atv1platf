@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallFlame01-mini-temperature_16x4_0: 8863041151997749592
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
