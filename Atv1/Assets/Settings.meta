@@ -1,7 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Atv1/Assets/Settings.meta
 guid: 0220aab0833d04faeb927d84ca6cc40c
 folderAsset: yes
 DefaultImporter:
+========
+guid: 6699a8e294343db4bb0a402436a7bf28
+TextScriptImporter:
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/Assets/Resources/BillingMode.json.meta
   externalObjects: {}
   userData: 
   assetBundleName: 

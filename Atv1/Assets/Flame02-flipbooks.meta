@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Atv1/Assets/Flame02-flipbooks.meta
 guid: 7ed45647d9fce4c41ba09621de73ff38
+========
+guid: 5909c30db3851084a8f43ed977072fbd
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/Assets/Resources.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

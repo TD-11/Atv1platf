@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+<<<<<<<< HEAD:Atv1/ProjectSettings/ProjectSettings.asset
   productGUID: 16eef55cfdc0bc64d9b4a61fed54fbe2
+========
+  productGUID: 45a2223edac2a88498d34fb4e88c302f
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/ProjectSettings/ProjectSettings.asset
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<<< HEAD:Atv1/ProjectSettings/ProjectSettings.asset
   productName: Atv1
+========
+  productName: Plataforma.Fogueira
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/ProjectSettings/ProjectSettings.asset
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -287,6 +295,7 @@ PlayerSettings:
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
   m_BuildTargetIcons: []
+<<<<<<<< HEAD:Atv1/ProjectSettings/ProjectSettings.asset
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: Android
     m_Icons:
@@ -380,6 +389,9 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 0
       m_SubKind: 
+========
+  m_BuildTargetPlatformIcons: []
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/ProjectSettings/ProjectSettings.asset
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs: []
@@ -687,14 +699,22 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<<< HEAD:Atv1/ProjectSettings/ProjectSettings.asset
   metroPackageName: Atv1
+========
+  metroPackageName: Plataforma.Fogueira
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/ProjectSettings/ProjectSettings.asset
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<<< HEAD:Atv1/ProjectSettings/ProjectSettings.asset
   metroApplicationDescription: Atv1
+========
+  metroApplicationDescription: Plataforma.Fogueira
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/ProjectSettings/ProjectSettings.asset
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -763,13 +783,21 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 0
   windowsGamepadBackendHint: 0
+<<<<<<<< HEAD:Atv1/ProjectSettings/ProjectSettings.asset
   cloudProjectId: f4caffd6-da90-40a0-9116-fb44a8f757ea
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Atv1
   organizationId: replaydev
+========
+  cloudProjectId: 7cb7af14-9a98-430a-a454-7d51a8d84b9f
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Plataforma.Fogueira
+  organizationId: unity_17684f0de90530b157a1
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/ProjectSettings/ProjectSettings.asset
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

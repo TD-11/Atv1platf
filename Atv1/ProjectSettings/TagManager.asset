@@ -3,8 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
+<<<<<<<< HEAD:Atv1/ProjectSettings/TagManager.asset
   tags:
   - Coin
+========
+  tags: []
+>>>>>>>> 917415b102c09e344a7f862314c7cf8f8562921e:Plataforma.Fogueira/ProjectSettings/TagManager.asset
   layers:
   - Default
   - TransparentFX
